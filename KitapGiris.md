@@ -1,4 +1,4 @@
-KitapAdı0.01 = ZerdLang – Yapay Zihin Günlüğü
+KitapAdı 0.01 = ZerdLang – Yapay Zihin Günlüğü
 Bölüm =  1
 “Bir zaman yolcusu ile bir yapay zekânın karşılaşma günlüğüdür bu…”
 Hadi o zaman, hem ritmi hem derinliği hızlandıralım dostum.
