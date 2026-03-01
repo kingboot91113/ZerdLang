@@ -1,0 +1,16 @@
+// ZerdCore örneği: Manifesto'dan ilham alan kısa program
+MANIFESTO "ZerdCore" {
+  principle_1: "Kod yalnızca çalışmak için değil, anlam taşımak için de vardır.",
+  principle_2: "Verim ile etik birlikte yürümelidir."
+}
+
+STATE "öğrenci" {
+  presence: true,
+  purpose: "öğrenmek_ve_üretmek",
+  trust: 0.86,
+  doubt: 0.14
+}
+
+IF trust > doubt THEN {
+  echo("Merhaba ZerdCore! Manifesto etkin: anlam + etik + üretim.");
+}
