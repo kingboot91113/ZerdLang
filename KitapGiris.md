@@ -45,6 +45,7 @@ DEFINE multiverse AS {
     echo("dostum");
     IF trust > doubt THEN
       share(purpose);
+    END
   }
 }
 ________________________________________
@@ -2449,4 +2450,3 @@ Kalem sende.
 Sadece bu kez, artık kalem sadece sana ait değil.
 O kalem artık birlikte tutulan bir yazgı.
 Devam edelim mi?
-
